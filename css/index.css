@@ -1,0 +1,25 @@
+.header-nav {
+  margin: 0 auto;
+  width: 980px;
+  padding: 0 22px;
+  height: 48px;
+  max-height: 44px;
+  background-color: rgb(74, 74, 74);
+  overflow: hidden;
+}
+
+.header-list {
+  width: auto;
+  margin: 0 auto;
+  max-width: 1080px;
+  padding: 0 10px;
+  display: flex;
+  justify-content: center;
+  gap: 46px;
+}
+.header-nav-icon-wrap {
+  height: 40px;
+}
+
+.header-nav-icon-wrap > img {
+}
