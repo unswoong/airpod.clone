@@ -167,6 +167,7 @@ header {
   margin-right: auto;
   padding: 30px 0 0;
   box-sizing: border-box;
+  background-color: #fff;
 }
 
 .products-wrap {
@@ -215,4 +216,75 @@ header {
   margin-top: 12px;
   font-size: 21px;
   font-weight: 400;
+}
+
+.links-inline {
+  display: block;
+  width: auto;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.links-inline-pro {
+  bottom: 35px;
+}
+
+.buy-btn {
+  display: inline-block;
+  text-align: center;
+  background-color: #0066cc;
+  border-radius: 20px;
+  padding: 12px 22px;
+  margin: 0 0.8em;
+}
+
+.buy-text {
+  font-size: 17px;
+  line-height: 1.1764805882;
+  font-weight: 400;
+  color: #fff;
+}
+
+.more-btn {
+  display: inline-block;
+}
+
+.more-text {
+  margin: 0 0.4em;
+  font-size: 21px;
+  line-height: 1.381002381;
+  font-weight: 400;
+  letter-spacing: 0.011em;
+  color: #0066cc;
+}
+
+.white-btn {
+  background-color: #fff;
+}
+
+.black-text {
+  color: #1d1d1f;
+}
+
+.white-text {
+  color: #fff;
+}
+
+.airpods-3ge {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 0 0;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+
+.background-2ge {
+  background-image: url(../img/airpods_3rd_gen__dhy5bknhvtqq_large.jpg);
+  background-position: center;
+  background-size:
+  border-radius: 16px;
+  width: 100%;
+  height: 100%;
 }
